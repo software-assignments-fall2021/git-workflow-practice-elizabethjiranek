@@ -3,7 +3,7 @@
 
 ### Link
 
-[Waymo CEO Says Tesla is Not a Competitor] (https://www.forbes.com/sites/johanmoreno/2021/01/22/waymo-ceo-says-tesla-is-not-a-competitor-gives-estimated-cost-of-autonomous-vehicles/?sh=6c99c687541b)
+[Waymo CEO Says Tesla is Not a Competitor](https://www.forbes.com/sites/johanmoreno/2021/01/22/waymo-ceo-says-tesla-is-not-a-competitor-gives-estimated-cost-of-autonomous-vehicles/?sh=6c99c687541b)
 
 ### Comments
 
