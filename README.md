@@ -3,12 +3,12 @@
 
 ### Link
 
-[Waymo CEO Says Tesla is Not a Competitor](https://www.forbes.com/sites/johanmoreno/2021/01/22/waymo-ceo-says-tesla-is-not-a-competitor-gives-estimated-cost-of-autonomous-vehicles/?sh=6c99c687541b)
+[Betamore launches software engineering training program for Baltimore residents](https://technical.ly/baltimore/2021/09/23/betamore-software-training/)
 
 ### Comments
 
-When we think about autonomous vehicles, we typically think about Tesla, but I've always thought that Waymo's differentiated technology, unique business model and their strong management team are key drivers to market.
+This article is about a new software engineering training program in Baltimore called Betamore. I find this particulary interesting because I'm from Baltimore, and while it's not a tech centered city, I think it's great that there are intiatives to push more education in the software engineering space.
 
-I thought this article was interesting because it outlines the key differences in technology use between Waymo and its competitors. Tesla uses advanced AI and camera systems while Waymo uses LiDAR (Light Detection and Ranging) systems – similar to what topographers use.
+This article highlights the features of this program – for Baltimore residents to help jumpstart their careers in software development. Successful participants of this program will receive job offers upon completion for full time positions in software development.
 
-I also find their business model particularly interesting – an Uber-like fleet of vehicles as an on-demand service. While this is not necessarily unique to Waymo, (there are other companies in the autonomous vehicle space that are approaching it in a similar way), they project the that cost-per-mile will be $0.30 while Uber and Lyft currently average at around $2-3. Also – due to Google’s presence as their parent company, they have a huge amount of capital for future marketing, research and development, etc.
+Founded by Baltimore native Aaron Brooks, this program will provide the opportunity for 15 individuals a path to software engineering that doesn't involve a four-year degree.
